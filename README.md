@@ -1,4 +1,4 @@
-# _Artithmetic Arranger_
+# _Arithmetic Arranger_
 
 #### By _**April Milan**_
 
@@ -17,9 +17,6 @@
 
 ## Description
 _A python based program arranging and displaying arithmetic equations._
-
-## GitHub Pages Link
-https://aprilmilanpdx.github.io/arithmetic-arranger/
 
 ## Setup/Installation Requirements
 
